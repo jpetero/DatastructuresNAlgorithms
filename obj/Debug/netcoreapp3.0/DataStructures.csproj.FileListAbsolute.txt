@@ -1,0 +1,11 @@
+E:\Assignments\Job Interviews\Laboremus Uganda\DataStructures\bin\Debug\netcoreapp3.0\DataStructures.exe
+E:\Assignments\Job Interviews\Laboremus Uganda\DataStructures\bin\Debug\netcoreapp3.0\DataStructures.deps.json
+E:\Assignments\Job Interviews\Laboremus Uganda\DataStructures\bin\Debug\netcoreapp3.0\DataStructures.runtimeconfig.json
+E:\Assignments\Job Interviews\Laboremus Uganda\DataStructures\bin\Debug\netcoreapp3.0\DataStructures.runtimeconfig.dev.json
+E:\Assignments\Job Interviews\Laboremus Uganda\DataStructures\bin\Debug\netcoreapp3.0\DataStructures.dll
+E:\Assignments\Job Interviews\Laboremus Uganda\DataStructures\bin\Debug\netcoreapp3.0\DataStructures.pdb
+E:\Assignments\Job Interviews\Laboremus Uganda\DataStructures\obj\Debug\netcoreapp3.0\DataStructures.csprojAssemblyReference.cache
+E:\Assignments\Job Interviews\Laboremus Uganda\DataStructures\obj\Debug\netcoreapp3.0\DataStructures.AssemblyInfoInputs.cache
+E:\Assignments\Job Interviews\Laboremus Uganda\DataStructures\obj\Debug\netcoreapp3.0\DataStructures.AssemblyInfo.cs
+E:\Assignments\Job Interviews\Laboremus Uganda\DataStructures\obj\Debug\netcoreapp3.0\DataStructures.dll
+E:\Assignments\Job Interviews\Laboremus Uganda\DataStructures\obj\Debug\netcoreapp3.0\DataStructures.pdb
